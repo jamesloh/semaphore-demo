@@ -42,3 +42,4 @@ elif [[ "$os" == "Darwin" ]]; then
 else
     echo "Unsupported OS: $os"
 fi
+printenv
