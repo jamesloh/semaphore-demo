@@ -46,3 +46,5 @@ printenv
 echo "---- AWS ----"
 echo $AWS
 echo $AWS_PROFILE
+echo $AWS_SECRET
+echo "============="
