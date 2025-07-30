@@ -43,3 +43,6 @@ else
     echo "Unsupported OS: $os"
 fi
 printenv
+echo "---- AWS ----"
+echo $AWS
+echo $AWS_PROFILE
